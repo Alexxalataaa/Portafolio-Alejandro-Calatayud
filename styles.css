@@ -709,6 +709,10 @@ ul {
         margin-bottom: 2rem;
     }
 
+    .hero-content {
+        margin-bottom: 4rem;
+    }
+
     .hero-content h1 {
         font-size: 3rem;
     }
